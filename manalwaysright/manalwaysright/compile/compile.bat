@@ -1,0 +1,1 @@
+ pyinstaller --onefile ../project/man.py

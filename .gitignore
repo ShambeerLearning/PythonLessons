@@ -1,0 +1,38 @@
+# Виртуальные окружения Python
+.venv/
+env/
+venv/
+ENV/
+
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Сборки PyInstaller
+build/
+dist/
+*.spec
+*.pkg
+*.toc
+*.pyz
+warn-*.txt
+xref-*.html
+base_library.zip
+localpycs/
+
+# Visual Studio и C++
+x64/
+Debug/
+Release/
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exe.recipe
+*.log
+*.user
